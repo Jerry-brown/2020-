@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>
+计算机网络HTML
+</title>
+</head>
+<body>
+    <h1>个人信息</h1>
+    <h2>刘京玮</h2>
+    <p> 18 信息与计算科学 </p>
+    <h1>图片</h1>
+    <h3>校徽：</h3>
+    <div align="center">
+      <img src="https://pic.baike.soso.com/ugc/baikepic2/1856/20200529163835-3202150_jpeg_800_800_54634.jpg/300"  width="150"  height="150">
+    </div>
+    <h3>二维码：</h3>
+    <div align="center">
+      <img src="https://www.jnu.edu.cn/_upload/tpl/00/f5/245/template245/images/home/ewm2.jpg" width="150" height="150">
+    </div>
+    <br>
+    <h1>超链接 </h1>
+    <a href="https://www.jnu.edu.cn/" target="_blank">暨大官网</a>
+    <h1>彩色字体</h1>
+    <div style="color:#7CFC00;  background-color:#EEEEEE;  text-align:center;">
+      <h2>学校简介(节选)</h2>
+      <p>暨南大学是中国第一所由政府创办的华侨学府。“暨南”二字出自《尚书·禹贡》：“东渐于海，西被<br>于流沙，朔南暨，声教讫于四海。”意即面向南洋，将中华文化远播到五洲四海。学校目前是中央统<br>战部、教育部、广东省共建的国家“双一流”建设高校，直属中央统战部管理。</p>
+    </div>
+    </body>
+</html>
